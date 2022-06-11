@@ -1,1 +1,1 @@
-a = '123'
+# frozen_string_literal: true
