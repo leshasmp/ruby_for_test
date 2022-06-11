@@ -1,2 +1,1 @@
-asdasd
-a = [asd]
+# frozen_string_literal: true
